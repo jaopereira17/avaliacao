@@ -11,3 +11,15 @@ h1{color: black;}
 p{color: rgb(226, 75, 5);}
 
 ul{color: blue;}
+.listacabecalho-{
+    display: flex;
+    margin-left: 250px;
+    margin-top: 80px;
+}
+.listacabecalho-{
+    color: aqua;
+    padding-left: 20px;
+    text-transform: uppercase;
+    front: size 25px;
+    list-style: none;
+}
